@@ -24,6 +24,11 @@ public class Calculator {
         int sum = num1 + num2;
 
         System.out.println("The sum is: " + sum);
+
+        int multiplication = num1 * num2;
+        System.out.println("The multiplication result is: " + multiplication);
+
     }
 }
+
 
