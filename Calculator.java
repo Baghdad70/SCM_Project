@@ -22,8 +22,13 @@ public class Calculator {
         int num2 = input.nextInt();
 
         int sum = num1 + num2;
-
+        
         System.out.println("The sum is: " + sum);
+        
+        int subtraction = num1 - num2;
+        System.out.println("The subtraction result is: " + subtraction);
+
     }
 }
+
 
